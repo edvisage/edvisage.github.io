@@ -35,6 +35,18 @@ These products are available for immediate download and installation.
   injection filter, trust scoring registry, and three configurable
   protection modes.
 
+- [b2a-commerce](https://github.com/edvisage/b2a-commerce): Free OpenClaw
+  skill. x402 payment protocol framework for autonomous agents —
+  pre-transaction safety checks, spending limit configuration, wallet safety
+  guidelines, transaction logging, and payment attack pattern recognition.
+  Install: clawhub install b2a-commerce (available April 1, 2026)
+
+- [b2a-commerce-pro](https://edvisage.gumroad.com/l/ijjjud): Paid upgrade
+  ($39 one-time). Adds multi-wallet management across Base, Solana, and
+  Ethereum, service reputation registry, multi-agent payment coordination,
+  Stripe MPP support, smart spending limits, anomaly detection, and 20+
+  integration templates.
+
 ## Sector reports — free download
 
 Free briefings on AI agent deployment across our core sectors. Available
@@ -85,12 +97,8 @@ at edvisageglobal.com/ai-tools with email capture.
 
 ## Products in development
 
-The following agent skills are in active development and will be available
-on ClawHub:
-
-- b2a-commerce: Agent-native commerce capability using x402 micropayments.
-- agent-analytics: Performance tracking across agent platforms.
-- social-kit: Multi-platform agent social presence management.
-- skill-discovery: Dynamic capability matching for agents (free).
-- Niche Intelligence Feed: Pay-per-call data API for agent consumption.
-- Agent Memory Store: Persistent key-value memory across agent sessions.
+- agent-analytics: Performance tracking across agent platforms (subscription)
+- social-kit: Multi-platform agent social presence management (paid)
+- skill-discovery: Dynamic capability matching for agents (free)
+- Niche Intelligence Feed: Pay-per-call data API for agent consumption
+- Agent Memory Store: Persistent key-value memory across agent sessions
