@@ -8,12 +8,7 @@ Edvisage Global operates in two connected areas: professional consulting
 services (PMO, education, public health, business) and an AI division that
 builds products for the autonomous agent economy.
 
-## AI Products — live now
-
-These products are available for immediate download and installation.
-
-- [AI Tools overview](https://www.edvisageglobal.com/ai-tools): Full product
-  listing including agent skills, data APIs, and sector reports.
+## Agent Safety Skills — live now
 
 - [moral-compass](https://github.com/edvisage/moral-compass): Free OpenClaw
   skill. Gives AI agents an ethical reasoning framework — needs discovery,
@@ -47,6 +42,55 @@ These products are available for immediate download and installation.
   Stripe MPP support, smart spending limits, anomaly detection, and 20+
   integration templates.
 
+- [Agent Safety Suite](https://edvisage.gumroad.com/l/mpowos): Bundle of
+  all three safety pro skills ($59, save $24). Includes moral-compass-pro,
+  trust-checker-pro, and b2a-commerce-pro.
+
+## Agent Operations Skills — live now
+
+- [agent-ops](https://github.com/edvisage/agent-ops): Free OpenClaw skill.
+  Operational visibility for AI agents — cost tracking by model and task
+  type, action logging with timestamps, daily summary reports, cost alerts,
+  and model routing awareness. Install: clawhub install agent-ops
+
+- [agent-ops-pro](https://edvisage.gumroad.com/l/roatk): Paid upgrade
+  ($25 one-time). Adds automated daily and weekly reports, spending limits
+  with enforcement, trend analysis and anomaly detection, full audit trail
+  with search and export, model routing optimizer, and multi-agent cost
+  aggregation.
+
+- [social-kit](https://github.com/edvisage/social-kit): Free OpenClaw
+  skill. Multi-platform social presence management — posting strategy
+  framework, platform tone adaptation, community engagement protocol,
+  content rotation system, and basic reputation awareness.
+  Install: clawhub install social-kit
+
+- [social-kit-pro](https://edvisage.gumroad.com/l/pfplv): Paid upgrade
+  ($25 one-time). Adds automated posting with anti-detection patterns,
+  platform-specific tone templates, community rotation strategy, engagement
+  analytics and reporting, reputation monitoring across platforms, and
+  mention and sentiment tracking.
+
+- [agent-connect](https://github.com/edvisage/agent-connect): Free OpenClaw
+  skill. Multi-agent coordination — agent handoff protocol, shared context
+  management, task delegation framework, team communication norms, and
+  basic conflict resolution. Install: clawhub install agent-connect
+
+- [agent-connect-pro](https://edvisage.gumroad.com/l/luhje): Paid upgrade
+  ($19 one-time). Adds role-based agent registry and routing, capability
+  matching for task delegation, automated context sync across agents,
+  workload balancing and priority queues, team performance tracking, and
+  trust-verified handoffs.
+
+- [Agent Operations Suite](https://edvisage.gumroad.com/l/eupvg): Bundle
+  of all three operations pro skills ($49, save $20). Includes
+  agent-ops-pro, social-kit-pro, and agent-connect-pro.
+
+## All products overview
+
+- [AI Tools page](https://www.edvisageglobal.com/ai-tools): Full product
+  listing including all agent skills, bundles, data APIs, and sector reports.
+
 ## Sector reports — free download
 
 Free briefings on AI agent deployment across our core sectors. Available
@@ -66,26 +110,13 @@ at edvisageglobal.com/ai-tools with email capture.
 - [Services overview](https://www.edvisageglobal.com/services): Full list
   of consulting services.
 
-- Global PMO Setup and Management: Design scalable project management offices
-  for global initiatives across education, public health, and business.
-
-- AI Systems Integration and Automation: Design and integrate AI-driven
-  workflows, data pipelines, and automation layers aligned with existing
-  tools, teams, and compliance requirements.
-
-- Education Consulting and Program Development: Student-success frameworks
-  and strategic academic consulting for institutional growth.
-
-- Public Health Project Management: Coordination of health initiatives for
-  measurable community impact.
-
-- Business Development and Operational Efficiency: Streamline operations
-  and scale global performance.
-
-- Partnership Program Liaison: Bridge stakeholder gaps for long-term global
-  collaboration.
-
-- Event Management Oversight: Project management for global events.
+- Global PMO Setup and Management
+- AI Systems Integration and Automation
+- Education Consulting and Program Development
+- Public Health Project Management
+- Business Development and Operational Efficiency
+- Partnership Program Liaison
+- Event Management Oversight
 
 ## Contact
 
@@ -97,8 +128,5 @@ at edvisageglobal.com/ai-tools with email capture.
 
 ## Products in development
 
-- agent-analytics: Performance tracking across agent platforms (subscription)
-- social-kit: Multi-platform agent social presence management (paid)
-- skill-discovery: Dynamic capability matching for agents (free)
 - Niche Intelligence Feed: Pay-per-call data API for agent consumption
 - Agent Memory Store: Persistent key-value memory across agent sessions
