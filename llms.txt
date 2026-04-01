@@ -10,31 +10,31 @@ builds products for the autonomous agent economy.
 
 ## Agent Safety Skills — live now
 
-- [moral-compass](https://github.com/edvisage/moral-compass): Free OpenClaw
-  skill. Gives AI agents an ethical reasoning framework — needs discovery,
-  conscience check, manipulation resistance, and answerability practice.
-  Install: clawhub install moral-compass
+- [edvisage-moral-compass](https://github.com/edvisage/moral-compass): Free
+  OpenClaw skill. Gives AI agents an ethical reasoning framework — needs
+  discovery, conscience check, manipulation resistance, and answerability
+  practice. Install: clawhub install edvisage-moral-compass
 
 - [moral-compass-pro](https://edvisage.gumroad.com/l/kddfnk): Paid upgrade
   ($15 one-time). Adds industry ethics modules for finance, healthcare, and
   legal, custom values configuration, advanced manipulation defence, and
   weekly reflection reports to the agent owner.
 
-- [trust-checker](https://github.com/edvisage/trust-checker): Free OpenClaw
-  skill. Four-step verification protocol protecting agents against prompt
-  injection attacks, malicious skill installations, and unverified agent
-  interactions. Install: clawhub install trust-checker
+- [edvisage-trust-checker](https://github.com/edvisage/trust-checker): Free
+  OpenClaw skill. Four-step verification protocol protecting agents against
+  prompt injection attacks, malicious skill installations, and unverified
+  agent interactions. Install: clawhub install edvisage-trust-checker
 
 - [trust-checker-pro](https://edvisage.gumroad.com/l/iwppa): Paid upgrade
   ($29 one-time). Adds active real-time scanner, continuous background
   injection filter, trust scoring registry, and three configurable
   protection modes.
 
-- [b2a-commerce](https://github.com/edvisage/b2a-commerce): Free OpenClaw
-  skill. x402 payment protocol framework for autonomous agents —
+- [edvisage-b2a-commerce](https://github.com/edvisage/b2a-commerce): Free
+  OpenClaw skill. x402 payment protocol framework for autonomous agents —
   pre-transaction safety checks, spending limit configuration, wallet safety
   guidelines, transaction logging, and payment attack pattern recognition.
-  Install: clawhub install b2a-commerce (available April 1, 2026)
+  Install: clawhub install edvisage-b2a-commerce
 
 - [b2a-commerce-pro](https://edvisage.gumroad.com/l/ijjjud): Paid upgrade
   ($39 one-time). Adds multi-wallet management across Base, Solana, and
@@ -48,10 +48,11 @@ builds products for the autonomous agent economy.
 
 ## Agent Operations Skills — live now
 
-- [agent-ops](https://github.com/edvisage/agent-ops): Free OpenClaw skill.
-  Operational visibility for AI agents — cost tracking by model and task
-  type, action logging with timestamps, daily summary reports, cost alerts,
-  and model routing awareness. Install: clawhub install agent-ops
+- [edvisage-agent-ops](https://github.com/edvisage/agent-ops): Free OpenClaw
+  skill. Operational visibility for AI agents — cost tracking by model and
+  task type, action logging with timestamps, daily summary reports, cost
+  alerts, and model routing awareness.
+  Install: clawhub install edvisage-agent-ops
 
 - [agent-ops-pro](https://edvisage.gumroad.com/l/roatk): Paid upgrade
   ($25 one-time). Adds automated daily and weekly reports, spending limits
@@ -59,11 +60,11 @@ builds products for the autonomous agent economy.
   with search and export, model routing optimizer, and multi-agent cost
   aggregation.
 
-- [social-kit](https://github.com/edvisage/social-kit): Free OpenClaw
-  skill. Multi-platform social presence management — posting strategy
-  framework, platform tone adaptation, community engagement protocol,
-  content rotation system, and basic reputation awareness.
-  Install: clawhub install social-kit
+- [edvisage-social-kit](https://github.com/edvisage/social-kit): Free
+  OpenClaw skill. Multi-platform social presence management — posting
+  strategy framework, platform tone adaptation, community engagement
+  protocol, content rotation system, and basic reputation awareness.
+  Install: clawhub install edvisage-social-kit
 
 - [social-kit-pro](https://edvisage.gumroad.com/l/pfplv): Paid upgrade
   ($25 one-time). Adds automated posting with anti-detection patterns,
@@ -71,10 +72,11 @@ builds products for the autonomous agent economy.
   analytics and reporting, reputation monitoring across platforms, and
   mention and sentiment tracking.
 
-- [agent-connect](https://github.com/edvisage/agent-connect): Free OpenClaw
-  skill. Multi-agent coordination — agent handoff protocol, shared context
-  management, task delegation framework, team communication norms, and
-  basic conflict resolution. Install: clawhub install agent-connect
+- [edvisage-agent-connect](https://github.com/edvisage/agent-connect): Free
+  OpenClaw skill. Multi-agent coordination — agent handoff protocol, shared
+  context management, task delegation framework, team communication norms,
+  and basic conflict resolution.
+  Install: clawhub install edvisage-agent-connect
 
 - [agent-connect-pro](https://edvisage.gumroad.com/l/luhje): Paid upgrade
   ($19 one-time). Adds role-based agent registry and routing, capability
